@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>graphics/Delete.png</file>
+        <file>graphics/icons8-commit-git-32.png</file>
+        <file>graphics/icons8-выбор-48.png</file>
+        <file>graphics/icons8-кнопка-new-48.png</file>
+        <file>graphics/Exit.png</file>
+    </qresource>
+</RCC>
